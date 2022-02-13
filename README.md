@@ -63,3 +63,5 @@ This project has been created as part of UPGRAD Lending Club Case Study module.
 
 ## Contact
 Created by - Maneesh Kumar Pandey
+Github link is as below -
+https://github.com/ManeeshKP-AZ/Lending-Club-Case-Study
